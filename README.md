@@ -16,9 +16,9 @@ Also don't forget to add viewport info to `<head>` section for adaptation to mob
 
 ## Download
 
-Download the latest version here — [awsm.css](https://raw.githubusercontent.com/igoradamenko/awsm.css/1.0/example/css/awsm.css).
+Download the latest version here — [awsm.css](https://raw.githubusercontent.com/Duzij/awsm.css/refs/heads/master/dist/awsm.css). 
 
-Minified — [awsm.min.css](https://raw.githubusercontent.com/igoradamenko/awsm.css/1.0/example/css/awsm.min.css) (2.2 Kb after gzip).
+Minified — [awsm.min.css](https://raw.githubusercontent.com/Duzij/awsm.css/refs/heads/master/dist/awsm.min.css) (2.2 Kb after gzip).
 
 ## Why?
 
@@ -26,4 +26,4 @@ I have to create simple pages in my daily work. Sometimes it's compiled Markdown
 
 ## Examples
 
-[Website for this repo](https://igoradamenko.github.io/awsm.css/) use awsm.css. Check this out.
+[Website for this repo]([https://igoradamenko.github.io/awsm.css/](https://igoradamenko.com/awsm.css/v2/index.html)) use awsm.css. Check this out.
